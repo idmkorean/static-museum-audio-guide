@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ACMI Audio Guide
-email: your-email@example.com
+title: Yonsei Korean Reading 4
+email: idmkorean@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A web-based audio guide theme for Jekyll.
+  Yonsei Korean Reading 4
 baseurl: "/static-museum-audio-guide" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
